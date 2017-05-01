@@ -1,0 +1,26 @@
+{
+  "name": "Sequelize-Express-Starter-Guide",
+  "version": "1.0.0",
+  "description": "Sequelize + Express Starter Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSlovak/Sequelize-Express-Starter-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSlovak/Sequelize-Express-Starter-Guide/issues"
+  },
+  "homepage": "https://github.com/JSlovak/Sequelize-Express-Starter-Guide#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pg": "^6.1.5",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.30.4"
+  }
+}
